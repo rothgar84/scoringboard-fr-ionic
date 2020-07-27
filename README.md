@@ -1,1 +1,1 @@
-# scoringboard using framework Ionic
+# Scoringboard using Framework Ionic
